@@ -1,0 +1,13 @@
+c:\users\serhan\documents\visual studio 2015\Projects\ndp1\ndp1\bin\Debug\ndp1.exe.config
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\ndp1\ndp1\obj\Debug\ndp1.csprojResolveAssemblyReference.cache
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\ndp1\ndp1\bin\Debug\ndp1.exe
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\ndp1\ndp1\bin\Debug\ndp1.pdb
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\ndp1\ndp1\obj\Debug\ndp1.exe
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\ndp1\ndp1\obj\Debug\ndp1.pdb
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp1\ndp1\bin\Debug\ndp1.exe.config
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp1\ndp1\bin\Debug\ndp1.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp1\ndp1\bin\Debug\ndp1.pdb
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp1\ndp1\obj\Debug\ndp1.csprojAssemblyReference.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp1\ndp1\obj\Debug\ndp1.csproj.CoreCompileInputs.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp1\ndp1\obj\Debug\ndp1.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp1\ndp1\obj\Debug\ndp1.pdb
